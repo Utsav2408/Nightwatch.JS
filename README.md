@@ -1,3 +1,7 @@
 # Nightwatch.JS
 Learning NightWatch.JS
-Testing it got connected or not
+
+It is a test automation tool
+
+References - 
+https://nightwatchjs.org/guide/overview/what-is-nightwatch.html
