@@ -6,6 +6,9 @@ module.exports = {
         browser.setValue("#dropdown", "Black");
         browser.pause(4 * 1000);
 
+        browser.click("#dropdown option:nth-child(4)");
+        browser.pause(4 * 1000);
+        
         browser.end();
     }
 }
