@@ -1,6 +1,5 @@
 # Nightwatch.JS
 Learning NightWatch.JS
-Testing it got connected or not
 
 To run 1 test - 
 npx nightwatch -e chrome --headless --test file directory
